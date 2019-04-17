@@ -14,7 +14,7 @@ i.e.
 
 python -m sort_algorithms.heap_sort.py
 
-Some of those scripts even have some customized output in order to make the process executed as clear as possible.
+Some of those scripts even have some customized output when run alone, in order to make the process executed as clear as possible.
 
 ## Motivation
 
