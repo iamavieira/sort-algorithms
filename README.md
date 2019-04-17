@@ -1,6 +1,6 @@
 # Sort and Search
 
-Implementation of sort and search algorithms in a that allows each file to be run both as a script or as a module. 
+Implementation of sort and search algorithms in a way that allows each file to be run as a script, priting it's own timing, or as a module, with all other files at once, allowing a comparison between timings. 
 
 ## How to use
 
