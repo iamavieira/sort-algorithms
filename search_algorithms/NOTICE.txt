@@ -1,1 +1,0 @@
-As of now this folder will remain empty, but feel free to send me a PR with implementations of search algorithms. 
