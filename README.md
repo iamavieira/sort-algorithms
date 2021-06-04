@@ -1,6 +1,6 @@
-# Sort and Search
+# Sorth
 
-Implementation of sort and search algorithms in a way that allows each file to be run as a script, priting it's own timing, or as a module, with all other files at once, allowing a comparison between timings. 
+Implementation of sort algorithms in a way that allows each file to be run as a script, priting it's own timing, or as a module, with all other files at once, allowing a comparison between timings. 
 
 ## How to use
 
@@ -18,4 +18,5 @@ Some of those scripts even have some customized output when run alone, in order 
 
 ## Motivation
 
-I created this rep because I didn't gave enough attention to those basics concepts back in university. Studying algorithms and data structures in order to become a better developer led me to implement all of these again, and so I decided to share.
+I created this rep because I didn't gave enough attention to those basics concepts back in university. 
+Studying algorithms and data structures in order to become a better developer led me to implement all of these again, and so I decided to share.
