@@ -1,4 +1,4 @@
-# Sorth
+# Sort
 
 Implementation of sort algorithms in a way that allows each file to be run as a script, priting it's own timing, or as a module, with all other files at once, allowing a comparison between timings. 
 
